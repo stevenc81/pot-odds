@@ -72,6 +72,7 @@ In poker, an **out** is defined as any unseen card remaining in the deck that, i
 
 ## **11 Outs Examples**
 
+### **Flush Draw + Set or Quads**
 - **Hand**: 7♠ 7♦
 - **Board**: K♠ 9♠ 4♠
 - **Current**: Flush draw + pocket pair
@@ -100,5 +101,5 @@ In poker, an **out** is defined as any unseen card remaining in the deck that, i
 - **Hand:** 10♠ 9♠  
 - **Board:** 8♠ 7♥ 2♠  
 - **Current:** Flush draw + open-ended straight draw  
-- **Outs:** Q♠, J♠, 6♠, 5♠, 4♠, 3♠, A♠ (flush) + J♥, J♦, J♣, 6♥, 6♦, 6♣ (straight)  
+- **Outs:** A♠, K♠, Q♠, J♠, 7♠, 6♠, 5♠, 4♠, 3♠ (flush) + J♥, J♦, J♣, 6♥, 6♦, 6♣ (straight)  
 - **Logic:** 9 spades for flush + 6 non-spade cards for straight (minus 2 overlap)
